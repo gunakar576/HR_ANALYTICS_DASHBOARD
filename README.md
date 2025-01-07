@@ -25,4 +25,4 @@ This dashboard is designed to help HR teams and organizational leaders:
 - Formulate strategies for improving employee satisfaction and retention.
 
   ## Analysis and Insight from Dashboard
-  ![image alt]_(https://github.com/gunakar576/HR_ANALYTICS_DASHBOARD/blob/main/Screenshot%202025-01-06%20133501.png?raw=true)
+  ![image alt](https://github.com/gunakar576/HR_ANALYTICS_DASHBOARD/blob/main/Screenshot%202025-01-06%20133501.png?raw=true)
