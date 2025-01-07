@@ -24,7 +24,7 @@ This dashboard is designed to help HR teams and organizational leaders:
 - Recognize trends and patterns affecting employee turnover.
 - Formulate strategies for improving employee satisfaction and retention.
 
-  ## Analysis and Insight from Dashboard
+  ## Analysis and Insights from Dashboard
   ![image alt](https://github.com/gunakar576/HR_ANALYTICS_DASHBOARD/blob/main/Screenshot%202025-01-06%20133501.png?raw=true)
 
 1. **General Employee Metrics:**
