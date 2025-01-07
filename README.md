@@ -13,3 +13,13 @@ This project presents an HR Analytics Dashboard created using Power BI to analyz
 - Job Roles
 - Gender
 - Dynamic Filtering: Allows selection of specific departments (e.g., Research & Development, Sales, Human Resources) to drill down into department-level data.
+## Tools and Technologies Used:
+- Power BI: For data visualization and dashboard creation.
+- HR Dataset: The data source used to analyze employee demographics, job roles, salaries, and attrition trends.
+- Ms Excel: For preprocessing or cleaning the dataset before importing into Power BI (if applicable).
+
+  ## Purpose of the Dashboard:
+This dashboard is designed to help HR teams and organizational leaders:
+- Identify key drivers of employee attrition.
+- Recognize trends and patterns affecting employee turnover.
+- Formulate strategies for improving employee satisfaction and retention.
