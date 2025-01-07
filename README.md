@@ -58,7 +58,7 @@ This dashboard is designed to help HR teams and organizational leaders:
    - Attrition is concentrated among younger employees (26-35 years), suggesting possible career growth or job market competition as factors.
    - Employees from technical roles (e.g., Laboratory Technicians, Research Scientists) and Life Sciences are more prone to leaving, possibly pointing to work stress, better pay elsewhere, or limited growth opportunities in the organization.
 
-4. *Potential Areas to Address:**
+4. **Potential Areas to Address:**
    - Investigate reasons for high attrition in the **26-35 age group** and **upto 5K salary range**.
    - Consider initiatives like salary restructuring, career development programs, or workplace satisfaction improvements to retain talent in key roles (e.g., Laboratory Technicians and Research Scientists).
    - Examine job satisfaction and growth opportunities in Life Sciences and Medical fields.
