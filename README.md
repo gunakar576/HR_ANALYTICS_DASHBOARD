@@ -23,3 +23,6 @@ This dashboard is designed to help HR teams and organizational leaders:
 - Identify key drivers of employee attrition.
 - Recognize trends and patterns affecting employee turnover.
 - Formulate strategies for improving employee satisfaction and retention.
+
+  ##Analysis and Insight from Dashboard
+  ![image alt]_()
